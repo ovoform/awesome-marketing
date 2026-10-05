@@ -42,6 +42,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Asana](https://asana.com) - [Review](https://marketingtoolslist.com/asana) - Project management platform that helps teams orchestrate their work, from daily tasks to strategic initiatives.
   - [Monday.com](https://monday.com) - [Review](https://marketingtoolslist.com/monday-com) - Work operating system to manage any team and any project with customizable workflows.
   - [Wrike](https://www.wrike.com) - [Review](https://marketingtoolslist.com/wrike) - Cloud-based collaboration and project management software.
+  - [Ovoform ROI Calculator](https://ovoform.com/tools/roi-calculator) - Free calculator to estimate return on investment for business projects and marketing campaigns.
 
 ### Budgeting and Forecasting
 
@@ -311,6 +312,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Google Optimize](https://optimize.google.com) - Review - Free A/B testing and personalization tool by Google that integrates with Google Analytics.
   - [Crazy Egg](https://www.crazyegg.com) - Review - Visual analytics and testing platform that includes heatmaps, click maps, and user recordings.
   - [Optimal UX](https://optimalux.com) - Review - Seamless SEO patching and A/B testing tool powered by Cloudflare for effortless integration.
+  - [Ovoform A/B Test Calculator](https://ovoform.com/tools/ab-test-calculator) - Free calculator to estimate sample size and test duration for conversion experiments.
 
 ### Dashboards and Reporting
 
@@ -384,6 +386,8 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Toluna](https://www.toluna.com) - Review - Real-time digital consumer insights platform for conducting surveys and gathering consumer feedback.
   - [Qualtrics](https://www.qualtrics.com) - Review - Experience management platform that helps organizations manage customer, employee, product, and brand experiences.
   - [Google Surveys](https://surveys.google.com) - Review - Simple, fast survey platform by Google that provides quick insights through online surveys.
+  - [Ovoform NPS Calculator](https://ovoform.com/tools/nps-calculator) - Free Net Promoter Score calculator to measure customer loyalty from survey responses.
+  - [Ovoform CSAT Calculator](https://ovoform.com/tools/csat-calculator) - Free Customer Satisfaction Score calculator to measure satisfaction using survey responses.
 
 ### Competitor Analysis
 
